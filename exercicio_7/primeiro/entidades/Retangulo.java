@@ -1,4 +1,4 @@
-package exercicio_7.entidades;
+package exercicio_7.primeiro.entidades;
 
 public class Retangulo {
     public double largura;

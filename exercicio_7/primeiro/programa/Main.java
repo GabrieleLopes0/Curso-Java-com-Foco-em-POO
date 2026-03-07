@@ -1,9 +1,9 @@
-package exercicio_7.programa;
+package exercicio_7.primeiro.programa;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import exercicio_7.entidades.Retangulo;
+import exercicio_7.primeiro.entidades.Retangulo;
 
 public class Main {
 public static void main(String[] args) {
